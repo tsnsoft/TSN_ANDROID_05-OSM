@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TSN_DEMO_05_OpenStreetMap</string>
+    <string name="О_программе">О программе</string>
+    <string name="email">Отзывы и предложения по адресу: proffix4@gmail.com</string>
+    <string name="exit">Выход</string>
+</resources>
