@@ -2,7 +2,7 @@
 <project version="4">
   <component name="deploymentTargetSelector">
     <selectionStates>
-      <SelectionState runConfigName="TSN_DEMO_05_OpenStreetMap">
+      <SelectionState runConfigName="TSN_ANDROID_05-OSM">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
